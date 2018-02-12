@@ -1,0 +1,26 @@
+.w-100{
+  margin-top:20px;
+}
+
+.product{
+  position:relative;
+}
+
+.product{
+  text-align: center;
+}
+
+.data{
+  background-color:rgba(230, 230, 230, 0.85);
+  width:100%;
+  position:absolute;
+  bottom:0px;
+  padding:10px;
+}
+li{
+  display: inline-block;
+}
+.btn-x{
+  margin-left: 10px;
+  cursor: pointer;
+}
